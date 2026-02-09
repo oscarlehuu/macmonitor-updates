@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.1.1-2.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/MacMonitor-0.1.1-2.zip" length="3341708" type="application/octet-stream" sparkle:edSignature="C8KYBE5CYDExGkieG6IjMZ0juJqWMFCimP6JlQiuR+0+rOXF8XonQpj2PxuwLoPZ06+dWTcL72qBVSrHJA2iDg=="/>
+            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/local-test-20260209-233009/MacMonitor-0.1.1-2.zip" length="3341708" type="application/octet-stream" sparkle:edSignature="C8KYBE5CYDExGkieG6IjMZ0juJqWMFCimP6JlQiuR+0+rOXF8XonQpj2PxuwLoPZ06+dWTcL72qBVSrHJA2iDg=="/>
         </item>
     </channel>
 </rss>
