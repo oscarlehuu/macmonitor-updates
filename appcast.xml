@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>MacMonitor Changelog</title>
-    <link>https://github.com/oscarlehuu/macmonitor</link>
-    <description>Updates for MacMonitor</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>MacMonitor Changelog</title>
+        <link>https://github.com/oscarlehuu/macmonitor</link>
+        <description>Updates for MacMonitor</description>
+        <language>en</language>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Mon, 09 Feb 2026 23:30:17 +1030</pubDate>
+            <link>https://github.com/oscarlehuu/macmonitor</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.1.1-2.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/MacMonitor-0.1.1-2.zip" length="3341708" type="application/octet-stream" sparkle:edSignature="C8KYBE5CYDExGkieG6IjMZ0juJqWMFCimP6JlQiuR+0+rOXF8XonQpj2PxuwLoPZ06+dWTcL72qBVSrHJA2iDg=="/>
+        </item>
+    </channel>
 </rss>
