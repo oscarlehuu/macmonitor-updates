@@ -1,0 +1,7 @@
+MacMonitor v0.3.1
+
+Bug fixes
+- Correct Sparkle download prefix in appcast generation.
+
+Technical
+- CI/test stabilization updates.
