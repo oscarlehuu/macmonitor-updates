@@ -6,6 +6,16 @@
         <description>Updates for MacMonitor</description>
         <language>en</language>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Mon, 16 Feb 2026 06:16:00 +0000</pubDate>
+            <link>https://github.com/oscarlehuu/macmonitor</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.3.1-3.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/v0.3.1/MacMonitor-0.3.1-3.zip" length="3894754" type="application/octet-stream" sparkle:edSignature="w0s+DZPyxastPLJpq8RH7Bb21Bo/8DdP7n98c16qN88xZGx/WCpNOVh9TzunmNoUcRy8ImmooIrPArYGbzW8CQ=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 13 Feb 2026 06:32:02 +0000</pubDate>
             <link>https://github.com/oscarlehuu/macmonitor</link>
