@@ -1,0 +1,3 @@
+MacMonitor v0.3.2
+
+Source commit: 35a06cd0c49a7644beccb0b67b62861931993c71
