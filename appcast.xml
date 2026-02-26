@@ -6,6 +6,17 @@
         <description>Updates for MacMonitor</description>
         <language>en</language>
         <item>
+            <title>0.4.3</title>
+            <pubDate>Thu, 26 Feb 2026 13:19:49 +0000</pubDate>
+            <link>https://github.com/oscarlehuu/macmonitor</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oscarlehuu/macmonitor/releases/tag/v0.4.3</sparkle:fullReleaseNotesLink>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.4.3-9.txt</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/v0.4.3/MacMonitor-0.4.3-9.zip" length="4149667" type="application/octet-stream" sparkle:edSignature="4SozyC6ZdHpbcRbiG/t8uZjtxtPctmqTpkBs+hkVi9x6wWpS+Do9LRjEg4e09zfeDKGirx4yU0cHCo9uXq8kCg=="/>
+        </item>
+        <item>
             <title>0.4.2</title>
             <pubDate>Thu, 26 Feb 2026 06:25:33 +0000</pubDate>
             <link>https://github.com/oscarlehuu/macmonitor</link>
@@ -26,16 +37,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.3.3-5.txt</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/v0.3.3/MacMonitor-0.3.3-5.zip" length="3974368" type="application/octet-stream" sparkle:edSignature="g/LnJZeUb5xN2dilvPXqNtWn+rrlAXxZfk9Oxvs8JA3VxowBr9PUN2eyvd6QdJJxKw5UgW4swVcfyr/VOhnpDg=="/>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Mon, 16 Feb 2026 06:33:42 +0000</pubDate>
-            <link>https://github.com/oscarlehuu/macmonitor</link>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://oscarlehuu.github.io/macmonitor-updates/MacMonitor-0.3.2-4.txt</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/oscarlehuu/macmonitor-updates/releases/download/v0.3.2/MacMonitor-0.3.2-4.zip" length="3894753" type="application/octet-stream" sparkle:edSignature="RyycJTpca/5Ip+nkiFICYJecHvqG5YXEV3iTM1GFCqcr8vzAkcZDcH3JSDglWxUBrdGIFQ/NY9PZEkJKH3oCBg=="/>
         </item>
     </channel>
 </rss>
